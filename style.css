@@ -1,0 +1,48 @@
+h1 {
+  font-family: 'Space Mono', monospace;
+  margin: 0px;
+  font-weight: 600;
+}
+
+.first {
+  box-shadow: inset rgb(243, 191, 156) 20px 20px 50px 50px;
+  color: rgb(23, 23, 24);
+  border-radius: 15px;
+  border: 0px solid;
+  width: 150px;
+  height: 50px;
+}
+.first {
+  box-shadow: inset rgb(243, 210, 188) 20px 20px 50px 50px;
+  color: rgb(23, 23, 24);
+  border-radius: 15px;
+  border: 0px solid;
+  width: 150px;
+  height: 50px;
+}
+.second {
+  box-shadow: inset rgb(215, 158, 248) 40px 80px 80px 80px;
+  color: rgb(23, 23, 24);
+  border-radius: 15px;
+  border: 0px solid;
+  width: 310px;
+  height: 50px;
+  margin-top: 10px;
+}
+.three {
+  box-shadow: inset rgb(125, 246, 255) 20px 20px 50px 50px;
+  color: rgb(23, 23, 24);
+  border-radius: 15px;
+  border: 0px solid;
+  width: 290px;
+  height: 50px;
+  margin-top: 10px;
+}
+body {
+  border-color: rgb(238, 242, 248);
+  border-style: solid;
+  border-radius: 5px;
+  margin: 0;
+  border-width: 3px;
+  padding: 30px;
+}
